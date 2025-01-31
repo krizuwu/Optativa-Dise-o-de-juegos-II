@@ -1,0 +1,76 @@
+# This .gitignore file is optimized for Unity projects.
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific settings
+UserSettings/
+
+# Visual Studio / Rider project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity automatic asset meta files
+*.pidb.meta
+*.pdb.meta
+
+# Ignore auto-generated plugin files
+Assets/Plugins/*/Android/libs/
+Assets/Plugins/*/iOS/
+
+# Exclude JetBrains Rider / ReSharper files
+.idea/
+*.DotSettings.user
+
+# Exclude logs and caches
+Logs/
+logs/
+Cache/
+cache/
+
+# Exclude system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+*.dll
+*.exe
+*.so
+*.dylib
+*.ncb
+*.sdf
+*.sqlite
+*.db
+
+# Ignore built game files
+*.apk
+*.aab
+*.ipa
+
+# Ignore package manager files
+Packages/
+*.asset
+
+# Ignore Play mode state
+*.playmode
+
+# Ignore Lighting data cache
+**/LightingData.asset
+
+# Ignore Auto-generated animation scripts
+**/Mecanim/*.controller
