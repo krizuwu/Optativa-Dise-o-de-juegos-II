@@ -60,8 +60,6 @@ Thumbs.db
 *.ipa
 
 # Ignore package manager files
-Packages/
-*.asset
 
 # Ignore Play mode state
 *.playmode
