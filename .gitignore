@@ -13,9 +13,6 @@
 UserSettings/
 
 # Visual Studio / Rider project files
-*.csproj
-*.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
