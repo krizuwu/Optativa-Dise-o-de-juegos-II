@@ -21,6 +21,7 @@ UserSettings/
 *.booproj
 *.svd
 *.pdb
+.vs/
 
 # Unity automatic asset meta files
 *.pidb.meta
@@ -59,7 +60,6 @@ Thumbs.db
 *.aab
 *.ipa
 
-# Ignore package manager files
 
 # Ignore Play mode state
 *.playmode

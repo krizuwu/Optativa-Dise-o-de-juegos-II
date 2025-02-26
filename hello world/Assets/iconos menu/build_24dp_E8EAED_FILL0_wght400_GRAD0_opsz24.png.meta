@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      build_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24_0: -5132152988407795592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pets_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24_0: -8331664063213250963
+      pets_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24_1: -970820428889546328
+      pets_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24_2: -2544156698267892735
+      pets_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24_3: -6831060511750636216
+      pets_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24_4: -5284313611790416610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
