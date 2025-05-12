@@ -1,0 +1,96 @@
+# Esta plantilla de .gitignore está optimizada para proyectos de Unity
+
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures para profiling
+[Mm]emoryCaptures/
+
+# Archivos de autogenerados
+Assets/Plugins/Editor/JetBrains*
+
+# Directorio de paquetes de Visual Studio para Unity
+.vs/
+
+# Directorio de generado por Gradle
+.gradle/
+
+# Archivos de exportación
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Carpetas de Crashlytics generadas
+crashlytics-build.properties
+
+# Archivos de configuración específicos para IDEs
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Logs de Unity
+*.log
+
+# Carpeta de paquetes de Unity
+/[Pp]ackages/
+
+# Carpetas y archivos exclusivas de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Carpetas y archivos exclusivos de Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Carpetas de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Cache de Unity Asset Store
+/[Aa]ssets/[Aa]ssetStoreTools*
+/[Aa]ssets/[Pp]lugins/[Ee]ditor/[Jj]etBrains*
+
+# Streamingassets (opcional, comentar si prefieres incluirlos)
+# /[Aa]ssets/[Ss]treamingAssets*
+
+# Cache del editor de Unity
+.idea/
+.plastic/
+
+# Carpeta de builds que contiene las versiones compiladas
+/[Bb]in/
