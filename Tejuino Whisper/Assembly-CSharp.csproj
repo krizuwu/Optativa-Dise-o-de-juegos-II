@@ -62,6 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player\MovementController.cs" />
+    <Compile Include="Assets\Scripts\Bullet\BulletController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Sprites\GandalfHardcore Projectiles and effects\READ ME.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

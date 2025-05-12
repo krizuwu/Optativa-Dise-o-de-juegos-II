@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Rura\\Documents\\GitHub\\Optativa-Dise-o-de-juegos-II\\Tejuino Whisper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2598863-35BC-F5F6-6F18-91BC66B542EC}|Assembly-CSharp.csproj|c:\\users\\rura\\documents\\github\\optativa-dise-o-de-juegos-ii\\tejuino whisper\\assets\\sprites\\gandalfhardcore projectiles and effects\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2598863-35BC-F5F6-6F18-91BC66B542EC}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\gandalfhardcore projectiles and effects\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2598863-35BC-F5F6-6F18-91BC66B542EC}|Assembly-CSharp.csproj|c:\\users\\rura\\documents\\github\\optativa-dise-o-de-juegos-ii\\tejuino whisper\\assets\\scripts\\player\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2598863-35BC-F5F6-6F18-91BC66B542EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "READ ME.txt",
+              "DocumentMoniker": "C:\\Users\\Rura\\Documents\\GitHub\\Optativa-Dise-o-de-juegos-II\\Tejuino Whisper\\Assets\\Sprites\\GandalfHardcore Projectiles and effects\\READ ME.txt",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\GandalfHardcore Projectiles and effects\\READ ME.txt",
+              "ToolTip": "C:\\Users\\Rura\\Documents\\GitHub\\Optativa-Dise-o-de-juegos-II\\Tejuino Whisper\\Assets\\Sprites\\GandalfHardcore Projectiles and effects\\READ ME.txt",
+              "RelativeToolTip": "Assets\\Sprites\\GandalfHardcore Projectiles and effects\\READ ME.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T01:09:45.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MovementController.cs",
               "DocumentMoniker": "C:\\Users\\Rura\\Documents\\GitHub\\Optativa-Dise-o-de-juegos-II\\Tejuino Whisper\\Assets\\Scripts\\Player\\MovementController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\MovementController.cs",
               "ToolTip": "C:\\Users\\Rura\\Documents\\GitHub\\Optativa-Dise-o-de-juegos-II\\Tejuino Whisper\\Assets\\Scripts\\Player\\MovementController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\MovementController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA4wEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T04:42:20.899Z",
               "EditorCaption": ""
